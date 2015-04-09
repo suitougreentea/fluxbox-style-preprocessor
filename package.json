@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/suitougreentea/fluxbox-style-preprocessor/issues"
   },
-  "homepage": "https://github.com/suitougreentea/fluxbox-style-preprocessor"
+  "homepage": "https://github.com/suitougreentea/fluxbox-style-preprocessor",
+  "devDependencies": {
+    "coffee-script": "^1.9.1"
+  }
 }
